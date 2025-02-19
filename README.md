@@ -14,11 +14,11 @@ Based on Prof. Kenneth Libbrecht's snow crystal formation mechanism, key paramet
 | Component | Alternative Solutions | Cost |  
 |-----------|-----------------------|------|  
 | Cooling System | TEC1-12706 Peltier module + heatsink & fan | $120 |  
-| Humidity System | Ultrasonic mist maker + micro water pump | ¥$150 |  
+| Humidity System | Ultrasonic mist maker + micro water pump | $150 |  
 | Control Module | Arduino Nano + DHT22 sensor | $80 |  
 | Frame Structure | Laser-cut acrylic/3D-printed casing | $100 |  
 | Power Supply | 12V 5A DC adapter | $50 |  
-| Accessories | Silicone tubes, thermal paste, hydrophilic-coated plates | ¥200 |  
+| Accessories | Silicone tubes, thermal paste, hydrophilic-coated plates | $200 |  
 
 #### **III. Assembly Guide**  
 **1. Cooling System Integration**  
